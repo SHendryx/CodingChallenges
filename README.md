@@ -67,7 +67,7 @@
 > ## Solution:
 > By iterating through each word in the list, and sorting the characters of the word we can obtain a usable key for a hash. Using that key with a unordered_map or hashmap, and pushing the unaltered word to the vector or list stored in the unordered_map/hashmap, we can collect all the words that are anagrams of each other.
 >
-> Python Solution: [49_Group_Anagrams.py](/python/49_Group_Anagrams.py)
+> Python Solution: [49_Group_Anagrams.py](/python/49_Group_Anagrams.py)  
 > C++ Solution: [49_Group_Anagrams.cpp](/c++/49_Group_Anagrams.cpp)
 >
 > ## Time Complexity:
