@@ -1,4 +1,4 @@
->155. Min Stack [Medium]
+># 155. Min Stack [Medium]
 >Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
 >
 >Implement the MinStack class:
@@ -35,10 +35,10 @@
 >At most 3 * 104 calls will be made to push, pop, top, and getMin.  
 >
 >## Solution:
->The solution results in some of the basic functions of a stack data structure. The complicated part is getting the minimum value contained in the data structure. To resolve the issue of providing the minimum value, we can add the current minimum value to the data structure at each push and pop of a value. Keeping a running minimum is the best way to be able to do this in O(n) time.
+>The solution results in some of the basic functions of a stack data structure. The complicated part is getting the minimum value contained in the data structure. To resolve the issue of providing the minimum value, we can add the current minimum value to the data structure at each push and pop of a value. Keeping a running minimum is the best way to be able to do this in constant time.
 >
 >## Time Complexity:
-> Time complexity is O(n).
+> Time complexity is O(1).
 >
 >## Space Complexity:
 > Space complexity is O(n).
