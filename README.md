@@ -7,6 +7,7 @@
 | 15. | [3Sum](/markdown/15_3Sum.md) | [15_3Sum.py](/python/15_3Sum.py) | [15_3Sum.cpp](/c++/15_3Sum.cpp) |
 | 20. | [Valid Parenthses](/markdown/20_Valid_Parentheses.md) | [20_Valid_Parentheses.py](/python/20_Valid_Parentheses.py) | [20_Valid_Parentheses.cpp](/c++/20_Valid_Paraentheses.cpp) |
 | 36. | [Valid Sudoku](/markdown/36_Valid_Sudoku.md) | [36_Valid_Sudoku.py](/python/36_Valid_Sudoku.py) | [36_Valid_Sudoku.cpp](/c++/36_Valid_Sudoku.cpp) |
+| 42. | [Trapping Rain Water](/markdown/42_Trapping_Rain_Water.md) | [42_Trapping_Rain_Water.py](/python/42_Trapping_Rain_Water.py) | [42_Trapping_Rain_Ware.cpp](/c++/42_Trapping_Rain_Water.cpp) |
 | 49. | [Group Anagrams](/markdown/49_Group_Anagrams.md) | [49_Group_Anagrams.py](/python/49_Group_Anagrams.py) | [49_Group_Anagrams.cpp](/c++/49_Group_Anagrams.cpp) |
 | 125. | [Valid Palindrome](/markdown/125_Valid_Palindrome.md) | [125_Valid_Palindrome.py](/python/125_Valid_Palindrome.py) | [125_Valid_Palindrome.cpp](/c++/125_Valid_Palindrome.cpp) |
 | 128. | [Longest Consecutive Sequence](/markdown/128_Longest_Consecutive_Sequence.md) | [128_Longest_Consecutive_Sequence.py](/python/128_Longest_Consecutive_Sequence.py) | [128_Longest_Consecutive_Sequence.cpp](/c++/128_Longest_Consecutive_Sequence.cpp) |
