@@ -1,6 +1,6 @@
 import re
 
-class Solution:
+class Valid_Palindrome:
   def isPalindrome(self, s: str) -> bool:
     ## Original attempt using two pointers:
     ## O(n) time complexity

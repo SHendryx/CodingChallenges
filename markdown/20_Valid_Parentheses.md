@@ -29,3 +29,9 @@
 >
 > #### Python Solution: [20_Valid_Parentheses.py](/python/20_Valid_Parentheses.py)
 > #### C++ Solution: [20_Valid_Parentheses.cpp](/c++/20_Valid_Paraentheses.cpp)
+>
+>## Time Complexity:
+>Time complexity is O(n).
+>
+>## Space Complextiy:
+>Space complexity is O(n).

@@ -1,4 +1,4 @@
-class Solution:
+class Longest_Consecutive_Sequence:
   def longestConsecutive(self, nums: list[int]) -> int:
     myNums = set(nums)
     longest = 0

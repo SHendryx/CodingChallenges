@@ -1,4 +1,4 @@
-class Solution:
+class Top_K_Frequent_Elements:
   def topKFrequent(self, nums: list[int], k: int) -> list[int]:
     counts = {}
     freq = [[] for i in range(len(nums) + 1)]
