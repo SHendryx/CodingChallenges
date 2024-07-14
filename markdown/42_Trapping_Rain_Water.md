@@ -19,6 +19,8 @@
 >## Solution:
 >My intuition is that I can solve this in O(n) time by using some similar methods from #11 Container With Most Water. If I iterate through the array and after finding an element, calculate the area of the empty space bounded by it until I find another element equal or larger, and then and only then include that empty space, I should be able to find the amount of water stored.
 >
+>Update: Essentially this is the method I used, but to be more clear, I used two pointers and recorded the max height I had seen of each, and added the difference only if the current height was lower than the max height. Otherwise I updated the max height. I chose to move the pointers based on whichever one was a lower height, or moved the left if they were the same.
+>
 >#### Python Solution: [42_Trapping_Rain_Water.py](/python/42_Trapping_Rain_Water.py)
 >
 >#### C++ Solution: [42_Trapping_Rain_Water.cpp](/c++/42_Trapping_Rain_Water.cpp)
