@@ -24,4 +24,13 @@ Since an empty string reads the same forward and backward, it is a palindrome.
 >s consists only of printable ASCII characters.  
 >
 > ## Solution:
+>First I removed any non-alphanumeric character from the array. Then I used two pointers at each end of the array and compare the characters while iterating towards the center to see if they match.
 >
+> #### Python Solution: [125_Valid_Palindrome.py](/python/125_Valid_Palindrome.py)
+> #### C++ Solution: [125_Valid_Palindrome.cpp](/c++/125_Valid_Palindrome.cpp)
+>
+> ## Time Complexity:
+> Time complexity is O(n).
+>
+> ## Space Complexity:
+> Space complexity is O(n).
