@@ -18,3 +18,4 @@
 | 238. | [Product Of Array Except Self](/markdown/238_Product_Of_Array_Except_Self.md) | [238_Product_Of_Array_Except_Self.py](/python/238_Product_Of_Array_Except_Self.py) | [238_Product_Of_Array_Except_Self.cpp](/c++/238_Product_Of_Array_Except_Self.cpp) |
 | 242. | [Valid Anagram](/markdown/242_Valid_Anagram.md) | [242_Valid_Anagram.py](/python/242_Valid_Anagram.py) | [242_Valid_Anagram.cpp](/c++/242_Valid_Anagram.cpp) |
 | 347. | [Top K Frquent Elements](/markdown/347_Top_K_Frequent_Elements.md) | [347_Top_K_Frquent_Elements.py](/python/347_Top_K_Frequent_Elements.py) | [347_Top_K_Frequent_Elements.cpp](/c++/347_Top_K_Frequent_Elements.cpp) |
+| 739. | [Daily Temperatures](/markdown/739_Daily_Temperatures.md) | [739_Daily_Temperatures.py](/python/739_Daily_Temperatures.py) | [739_Daily_Temperatures.cpp](/c++/739_Daily_Temperatures.cpp) |
