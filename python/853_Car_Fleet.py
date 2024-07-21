@@ -1,5 +1,5 @@
 class Car_Fleet:
-    def carFleet(self, target: int, position: List[int], speed: List[int]) -> int:
+    def carFleet(self, target: int, position: list[int], speed: list[int]) -> int:
         cars = sorted(list(zip(position, speed)), key = lambda x : x[0])
         stack = []
         for car in cars[::-1]:
