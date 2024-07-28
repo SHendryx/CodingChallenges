@@ -10,6 +10,7 @@
 | 36. | [Valid Sudoku](/markdown/36_Valid_Sudoku.md) | [36_Valid_Sudoku.py](/python/36_Valid_Sudoku.py) | [36_Valid_Sudoku.cpp](/c++/36_Valid_Sudoku.cpp) |
 | 42. | [Trapping Rain Water](/markdown/42_Trapping_Rain_Water.md) | [42_Trapping_Rain_Water.py](/python/42_Trapping_Rain_Water.py) | [42_Trapping_Rain_Water.cpp](/c++/42_Trapping_Rain_Water.cpp) | Monotonic Stack |
 | 49. | [Group Anagrams](/markdown/49_Group_Anagrams.md) | [49_Group_Anagrams.py](/python/49_Group_Anagrams.py) | [49_Group_Anagrams.cpp](/c++/49_Group_Anagrams.cpp) |
+| 74. | [Search a 2D Matrix](/markdown/74_Search_A_2D_Matrix.md) | [74_Search_A_2D_Matrix.py](/python/74_Search_A_2D_Matrix.py) | [74_Search_A_2D_Matrix.cpp](/c++/74_Search_A_2D_Matrix.cpp) | Binary Search |
 | 84. | [Largest Rectangle In Histogram](/markdown/84_Largest_Rectangle_In_Histogram.md) | [84_Largest_Rectangle_In_Histogram.py](/python/84_Largest_Rectangle_In_Histogram.py) | [84_Largest_Rectangle_In_Histograph.cpp](/c++/84_Largest_Rectangle_In_Histogram.cpp) | Monotonic Stack |
 | 125. | [Valid Palindrome](/markdown/125_Valid_Palindrome.md) | [125_Valid_Palindrome.py](/python/125_Valid_Palindrome.py) | [125_Valid_Palindrome.cpp](/c++/125_Valid_Palindrome.cpp) |
 | 128. | [Longest Consecutive Sequence](/markdown/128_Longest_Consecutive_Sequence.md) | [128_Longest_Consecutive_Sequence.py](/python/128_Longest_Consecutive_Sequence.py) | [128_Longest_Consecutive_Sequence.cpp](/c++/128_Longest_Consecutive_Sequence.cpp) |
@@ -19,5 +20,6 @@
 | 238. | [Product Of Array Except Self](/markdown/238_Product_Of_Array_Except_Self.md) | [238_Product_Of_Array_Except_Self.py](/python/238_Product_Of_Array_Except_Self.py) | [238_Product_Of_Array_Except_Self.cpp](/c++/238_Product_Of_Array_Except_Self.cpp) |
 | 242. | [Valid Anagram](/markdown/242_Valid_Anagram.md) | [242_Valid_Anagram.py](/python/242_Valid_Anagram.py) | [242_Valid_Anagram.cpp](/c++/242_Valid_Anagram.cpp) |
 | 347. | [Top K Frquent Elements](/markdown/347_Top_K_Frequent_Elements.md) | [347_Top_K_Frquent_Elements.py](/python/347_Top_K_Frequent_Elements.py) | [347_Top_K_Frequent_Elements.cpp](/c++/347_Top_K_Frequent_Elements.cpp) |
+| 704. | [Binary Search](/markdown/704_Binary_Search.md) | [704_Binary_Search.py](/python/704_Binary_Search.py) | [704_Binary_Search.cpp](/c++/704_Binary_Search.cpp) | Binary Search |
 | 739. | [Daily Temperatures](/markdown/739_Daily_Temperatures.md) | [739_Daily_Temperatures.py](/python/739_Daily_Temperatures.py) | [739_Daily_Temperatures.cpp](/c++/739_Daily_Temperatures.cpp) |
 | 853. | [Car Fleet](/markdown/853_Car_Fleet.md) | [853_Car_Fleet.py](/python/853_Car_Fleet.py) | [853_Car_Fleet.cpp](/c++/853_Car_Fleet.cpp) |
