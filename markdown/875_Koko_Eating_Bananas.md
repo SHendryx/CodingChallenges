@@ -25,7 +25,7 @@
 >1 <= piles[i] <= 109  
 >
 >## Solution:
->Using the binary search algorithm, we can set the slowest rate to be 1, and the highest rate to be the largest number of bananas in a pile. It's possible to refine the highest rate a little bit by calculating the number of hours it'd take if we assumed every pile was equal to the largest pile, also. We then pick a rate in between those values and determine if we are eating the bananas faster or slower than the number of hours the guard will be gone. We shift the slowest or highest rate depending on if we're slower or faster. We then recalculate a middle rate, and continue until the slowest rate is higher than the highest.
+>Using the binary search algorithm, we can set the slowest rate to be 1, and the highest rate to be the largest number of bananas in a pile. It's possible to refine the highest rate a little bit by calculating the number of hours it'd take if we assumed every pile was equal to the largest pile, also. We then pick a rate in between those values and determine if we are eating the bananas faster or slower than the number of hours the guard will be gone. We shift the slowest or highest rate depending on if we're slower or faster. We then recalculate a middle rate, and continue until the slowest rate is higher than the highest. We should be left with the slowest rate possible at the end.
 >
 >#### Python Solution: [875_Koko_Eating_Bananas.py](/python/875_Koko_Eating_Bananas.py)
 >#### C++ Solution: [875_Koko_Eating_Bananas.cpp](/c++/875_Koko_Eating_Bananas.cpp)
