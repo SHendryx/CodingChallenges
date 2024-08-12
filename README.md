@@ -7,6 +7,7 @@
 | 15. | [3Sum](/markdown/15_3Sum.md) | [15_3Sum.py](/python/15_3Sum.py) | [15_3Sum.cpp](/c++/15_3Sum.cpp) |
 | 20. | [Valid Parenthses](/markdown/20_Valid_Parentheses.md) | [20_Valid_Parentheses.py](/python/20_Valid_Parentheses.py) | [20_Valid_Parentheses.cpp](/c++/20_Valid_Paraentheses.cpp) |
 | 22. | [Generate Parentheses](/markdown/22_Generate_Parentheses.md) | [22_Generate_Parentheses.py](/python/22_Generate_Parentheses.py) | [22_Generate_Parentheses.cpp](/c++/22_Generate_Parentheses.cpp) |
+| 33. | [Search in Rotated Sorted Array](/markdown/33_Search_In_Rotated_Sorted_Array.md) | [33_Search_In_Rotated_Sorted_Array.py](/python/33_Search_In_Rotated_Sorted_Array.py) | [33_Search_In_Rotated_Sorted_Array.cpp](/c++/33_Search_In_Rotated_Sorted_Array.cpp) | Binary Search |
 | 36. | [Valid Sudoku](/markdown/36_Valid_Sudoku.md) | [36_Valid_Sudoku.py](/python/36_Valid_Sudoku.py) | [36_Valid_Sudoku.cpp](/c++/36_Valid_Sudoku.cpp) |
 | 42. | [Trapping Rain Water](/markdown/42_Trapping_Rain_Water.md) | [42_Trapping_Rain_Water.py](/python/42_Trapping_Rain_Water.py) | [42_Trapping_Rain_Water.cpp](/c++/42_Trapping_Rain_Water.cpp) | Monotonic Stack |
 | 49. | [Group Anagrams](/markdown/49_Group_Anagrams.md) | [49_Group_Anagrams.py](/python/49_Group_Anagrams.py) | [49_Group_Anagrams.cpp](/c++/49_Group_Anagrams.cpp) |
